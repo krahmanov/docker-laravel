@@ -9,4 +9,4 @@
 `docker-compose run --rm artisan <command>`
 #### To run npm commands
 `docker-compose run --rm npm <command>`
-##### App shold be running on localhost:8000
+##### App should start on localhost:8000
